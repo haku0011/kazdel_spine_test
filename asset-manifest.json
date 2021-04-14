@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/kazdel_spine_test/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/kazdel_spine_test/static/js/main.8c29a780.chunk.js",
-    "main.js.map": "/kazdel_spine_test/static/js/main.8c29a780.chunk.js.map",
-    "runtime-main.js": "/kazdel_spine_test/static/js/runtime-main.c20c65a3.js",
-    "runtime-main.js.map": "/kazdel_spine_test/static/js/runtime-main.c20c65a3.js.map",
-    "static/js/2.44c7f483.chunk.js": "/kazdel_spine_test/static/js/2.44c7f483.chunk.js",
-    "static/js/2.44c7f483.chunk.js.map": "/kazdel_spine_test/static/js/2.44c7f483.chunk.js.map",
-    "static/js/3.e4d9400d.chunk.js": "/kazdel_spine_test/static/js/3.e4d9400d.chunk.js",
-    "static/js/3.e4d9400d.chunk.js.map": "/kazdel_spine_test/static/js/3.e4d9400d.chunk.js.map",
-    "static/js/4.26f152a2.chunk.js": "/kazdel_spine_test/static/js/4.26f152a2.chunk.js",
-    "static/js/4.26f152a2.chunk.js.map": "/kazdel_spine_test/static/js/4.26f152a2.chunk.js.map",
+    "main.js": "/kazdel_spine_test/static/js/main.8d2c0eba.chunk.js",
+    "main.js.map": "/kazdel_spine_test/static/js/main.8d2c0eba.chunk.js.map",
+    "runtime-main.js": "/kazdel_spine_test/static/js/runtime-main.e2cfe5f8.js",
+    "runtime-main.js.map": "/kazdel_spine_test/static/js/runtime-main.e2cfe5f8.js.map",
+    "static/js/2.8ffa5680.chunk.js": "/kazdel_spine_test/static/js/2.8ffa5680.chunk.js",
+    "static/js/2.8ffa5680.chunk.js.map": "/kazdel_spine_test/static/js/2.8ffa5680.chunk.js.map",
+    "static/js/3.f612cbee.chunk.js": "/kazdel_spine_test/static/js/3.f612cbee.chunk.js",
+    "static/js/3.f612cbee.chunk.js.map": "/kazdel_spine_test/static/js/3.f612cbee.chunk.js.map",
+    "static/js/4.23c4187b.chunk.js": "/kazdel_spine_test/static/js/4.23c4187b.chunk.js",
+    "static/js/4.23c4187b.chunk.js.map": "/kazdel_spine_test/static/js/4.23c4187b.chunk.js.map",
     "index.html": "/kazdel_spine_test/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/kazdel_spine_test/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.44c7f483.chunk.js.LICENSE.txt": "/kazdel_spine_test/static/js/2.44c7f483.chunk.js.LICENSE.txt",
-    "static/js/3.e4d9400d.chunk.js.LICENSE.txt": "/kazdel_spine_test/static/js/3.e4d9400d.chunk.js.LICENSE.txt"
+    "static/js/2.8ffa5680.chunk.js.LICENSE.txt": "/kazdel_spine_test/static/js/2.8ffa5680.chunk.js.LICENSE.txt",
+    "static/js/3.f612cbee.chunk.js.LICENSE.txt": "/kazdel_spine_test/static/js/3.f612cbee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c20c65a3.js",
-    "static/js/3.e4d9400d.chunk.js",
+    "static/js/runtime-main.e2cfe5f8.js",
+    "static/js/3.f612cbee.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.8c29a780.chunk.js"
+    "static/js/main.8d2c0eba.chunk.js"
   ]
 }
